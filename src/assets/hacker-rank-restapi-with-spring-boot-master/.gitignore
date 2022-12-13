@@ -1,4 +1,0 @@
-target/
-**/target/
-/src/main/java/com/hackerrank/github/model/*_.java
-/.apt_generated_tests/
